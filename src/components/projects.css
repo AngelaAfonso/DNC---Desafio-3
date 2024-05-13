@@ -1,0 +1,32 @@
+.projects{
+    margin-top: 10vw;
+    margin-left: 1vw;
+    text-align: left;
+    font-size: 1.5vw;
+}
+.projects img{
+    width: 25vw;
+}
+.container{
+    width: 25vw;
+    font-size: 1.5vw;
+    margin-top: 5vw;
+    border: 0.1vw solid;
+    border-top-left-radius: 3vw;
+    border-bottom-right-radius: 3vw;
+    padding: 3vw 1vw;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);
+}
+.container h5{
+    font-size: 1.7vw;
+    margin-top: 1vw;
+    text-align: center;
+}
+.Projects1{
+    display: flex;
+    justify-content: space-around;
+}
+.Projects2{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #0F1624;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    display: flex; /* Use flexbox para alinhar os itens */
+  justify-content: space-around; /* Alinha os itens horizontalmente */
+  align-items: center; /* Alinha os itens verticalmente */
+  height: 5vw;
+  font-size: 1.2vw;
+  cursor: pointer;
+}
+.navbar .text{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+.navbar p{
+    display: inline-block;
+    margin: 0vw 3vw;
+}
+.navbar a{
+    color: #fff;
+}

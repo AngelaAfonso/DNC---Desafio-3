@@ -1,0 +1,17 @@
+.about h1{
+    font-size: 2.5vw;
+    margin-top: 10vw;
+}
+.about-text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+.about-text p{
+    font-size: 1.2vw;
+    margin-left: 0vw;
+}
+.about img{
+    width: 80vw;
+}
